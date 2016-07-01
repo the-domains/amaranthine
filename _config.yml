@@ -1,0 +1,28 @@
+name: Amaranthine
+favicon: null
+layout_spectrum: 0.37960310373455286
+typography_spectrum: 0.15104061155579984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.20227133738808334
+  lightness: 0.9788090989459306
+  saturation: 0.9195681696292013
+  rhythmicContrast: 0.8579044081270695
+purpose: []
